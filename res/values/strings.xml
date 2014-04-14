@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HigginsBarthow</string>
+    <string name="dummy_button">Mute Phone</string>
+    <string name="dummy_content">Higgins\nBarthow</string>
+
+</resources>
